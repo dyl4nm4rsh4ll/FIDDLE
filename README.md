@@ -6,6 +6,8 @@ a novel deep neural network approach towards functional genomic data integration
 
 ### [FIDDLE notebook 🎻](https://colab.research.google.com/github/churchmanlab/FIDDLE/blob/master/fiddle.ipynb)
 
+### [presentation](https://docs.google.com/presentation/d/1w1hv3fcmN1OdKFkdiHlL6oxqrG29oG6OQd9Nle_YMXM/edit?usp=sharing)
+
 
 
 ```bash
