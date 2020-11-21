@@ -2,7 +2,7 @@
 
 ### Flexible Integration of Data with Deep LEarning
 
-A novel deep neural network approach towards functional genomic data integration, [slidedeck](https://docs.google.com/presentation/d/1xLzA3IWVae6o8UTExAk-zRoBym5v1rHMseL3wbXDyxY/edit?usp=sharing). The initial preprint can be found here: [User et al](https://www.biorxiv.org/content/10.1101/081380v1).
+A novel deep neural network approach towards functional genomic data integration, [slidedeck](https://docs.google.com/presentation/d/1xLzA3IWVae6o8UTExAk-zRoBym5v1rHMseL3wbXDyxY/edit?usp=sharing). The initial preprint can be found here: [Eser et al](https://www.biorxiv.org/content/10.1101/081380v1).
 
 ### [FIDDLE notebook 🎻](https://colab.research.google.com/github/churchmanlab/FIDDLE/blob/master/fiddle.ipynb)
 
